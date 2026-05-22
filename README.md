@@ -12,17 +12,17 @@ Which loan attributes are the strongest predictors of default, and where does th
 
 ## Key findings
 
-1. **The pricing model breaks at grade D.** Grade D loans average 17.93% interest but default at 19.96% — the interest rate does not cover expected losses before operating costs, meaning every grade D–G origination requires a subsidy from grade A–B profits to stay net positive.
+1. **The pricing model breaks at grade D.** Grade D loans average 17.93% interest but default at 19.96% - the interest rate does not cover expected losses before operating costs, meaning every grade D–G origination requires a subsidy from grade A–B profits to stay net positive.
 
-2. **The 2017–2018 apparent improvement in default rates is vintage immaturity bias, not genuine credit quality improvement.** Grade E defaults appear to drop from 34.22% in 2015 to 6.62% in 2018 — but 2018 loans are only 1–2 years old and have not had sufficient time to default.
+2. **The 2017–2018 apparent improvement in default rates is vintage immaturity bias, not genuine credit quality improvement.** Grade E defaults appear to drop from 34.22% in 2015 to 6.62% in 2018 - but 2018 loans are only 1–2 years old and have not had sufficient time to default.
 
-3. **60-month small business loans are the highest-risk product combination in the portfolio.** This term–purpose combination carries a 22.15% default rate vs. 16.53% on 36-month small business loans — a 34% relative increase in default risk from term extension alone.
+3. **60-month small business loans are the highest-risk product combination in the portfolio.** This term–purpose combination carries a 22.15% default rate vs. 16.53% on 36-month small business loans - a 34% relative increase in default risk from term extension alone.
 
 ---
 
 ## Data quality flag
 
-The source file (`accepted_2007_to_2018Q4.xlsx`) loaded exactly 1,048,575 rows — Excel's hard row limit. Pre-2015 origination records were silently truncated during the Excel export. This was identified and flagged in the analyst readout before publication. For a complete vintage analysis covering 2007–2014, the raw CSV from Kaggle is required.
+The source file (`accepted_2007_to_2018Q4.xlsx`) loaded exactly 1,048,575 rows: Excel's hard row limit. Pre-2015 origination records were silently truncated during the Excel export. This was identified and flagged in the analyst readout before publication. For a complete vintage analysis covering 2007–2014, the raw CSV from Kaggle is required.
 
 ---
 
