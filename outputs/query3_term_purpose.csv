@@ -1,0 +1,23 @@
+term,purpose,total_loans,payoff_rate_pct,default_rate_pct,avg_loan_amount
+ 36 months,renewable_energy,503,46.72,16.7,8871.0
+ 36 months,small_business,7243,44.58,16.53,14617.0
+ 36 months,moving,6125,48.56,14.37,7032.0
+ 36 months,medical,10313,46.75,12.09,7648.0
+ 36 months,debt_consolidation,398420,53.91,11.43,13707.0
+ 36 months,house,4023,43.9,11.21,13535.0
+ 36 months,other,50651,47.88,11.04,8752.0
+ 36 months,vacation,6925,49.16,10.82,5576.0
+ 36 months,major_purchase,17081,51.23,9.61,10475.0
+ 36 months,home_improvement,51207,52.77,9.3,12294.0
+ 36 months,credit_card,174858,53.11,8.6,13595.0
+ 36 months,car,8603,52.39,8.53,8138.0
+ 60 months,small_business,2524,24.56,22.15,22444.0
+ 60 months,moving,1044,26.53,20.11,17222.0
+ 60 months,debt_consolidation,196373,30.59,17.35,20958.0
+ 60 months,other,11775,26.25,17.1,19069.0
+ 60 months,major_purchase,5757,28.07,16.59,21098.0
+ 60 months,medical,2355,27.39,15.97,17816.0
+ 60 months,house,1683,29.71,14.32,21450.0
+ 60 months,credit_card,67500,28.87,14.13,20835.0
+ 60 months,home_improvement,21105,32.91,14.01,20940.0
+ 60 months,car,1903,29.58,12.03,17162.0

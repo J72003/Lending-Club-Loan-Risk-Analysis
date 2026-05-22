@@ -1,0 +1,8 @@
+data/loan.csv
+data/loans.db
+data/*.xlsx
+data/*.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
